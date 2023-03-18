@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B8C&background=E184FF00&center=true&vCenter=true&width=435&lines=Welcom+to+my+house%EF%BC%81)](https://git.io/typing-svg)
 <!--
 **PepsiC0/PepsiC0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepsiC0&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PepsiC0&theme=vue)
