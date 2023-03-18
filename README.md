@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B8C&background=E184FF00&center=true&vCenter=true&width=435&lines=Welcom+to+my+house%EF%BC%81)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=25&pause=1000&color=F731BE&center=true&vCenter=true&width=435&lines=Welcome+to+my+house+!;Have+a+nice+day+!)](https://git.io/typing-svg)
 <!--
 **PepsiC0/PepsiC0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
