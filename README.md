@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PepsiC0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepsiC0&show_icons=true&theme=synthwave)
 
